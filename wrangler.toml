@@ -5,19 +5,19 @@ name = "sglinode" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sglinode.muhno.my.id"
+pattern = "sg2.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sglinode.muhno.my.id"
+pattern = "ava.game.naver.com.sg2.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "edu.ruangguru.com.sglinode.muhno.my.id"
+pattern = "zaintest.vuclip.com.sg2.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.staging.vidio.com.sglinode.muhno.my.id"
+pattern = "quiz.staging.vidio.com.sg2.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "live.iflix.com.sglinode.muhno.my.id"
+pattern = "live.iflix.com.sg2.muhno.my.id"
 custom_domain = true
 
 [vars]
