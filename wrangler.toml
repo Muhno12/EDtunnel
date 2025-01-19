@@ -1,26 +1,26 @@
-name = "sg2" # todo
+name = "vip" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg2.muhno.my.id"
+pattern = "vip.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sg2.muhno.my.id"
+pattern = "ava.game.naver.com.vip.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sg2.muhno.my.id"
+pattern = "zaintest.vuclip.com.vip.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.staging.vidio.com.sg2.muhno.my.id"
+pattern = "quiz.staging.vidio.com.vip.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "live.iflix.com.sg2.muhno.my.id"
+pattern = "live.iflix.com.vip.muhno.my.id"
 custom_domain = true
 [[routes]]
-pattern = "cache.netflix.com.sg2.muhno.my.id"
+pattern = "cache.netflix.com.vip.muhno.my.id"
 custom_domain = true
 
 
